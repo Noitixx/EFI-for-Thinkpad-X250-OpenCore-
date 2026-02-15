@@ -1,0 +1,1 @@
+# EFI-for-Thinkpad-X250-OpenCore-
