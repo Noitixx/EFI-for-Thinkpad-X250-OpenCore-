@@ -1,1 +1,8 @@
-# EFI-for-Thinkpad-X250-OpenCore-
+# EFI-for-Thinkpad-X260-OpenCore-
+
+THIS IS ONLY FOR BOOT!
+
+Create a new efi with OC Simplify.
+ADD the correct kext for your sound card.
+
+Mount the efi partition with OC Auxiliary Tool, and place the new one there.
